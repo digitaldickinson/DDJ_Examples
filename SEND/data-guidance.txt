@@ -1,0 +1,92 @@
+Special educational needs in England
+Academic year 2024/25
+
+Description
+
+This document describes the data included in the ‘Special educational needs in England’ National Statistics release’s underlying data files. This data is released under the terms of the  Open Government License (opens in a new tab) (http://www.nationalarchives.gov.uk/doc/open-government-licence/) and is intended to meet at least 3 stars for  Open Data (opens in a new tab) (https://www.gov.uk/government/policies/improving-the-transparency-and-accountability-of-government-and-its-services/supporting-pages/releasing-data-in-open-formats).
+
+The publication methodology, available on the publication report, should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+Coverage
+
+This release provides information on the number of schools and pupils in:
+
+- state-funded primary schools
+- state-funded secondary schools
+- state-funded special schools
+- non-maintained special schools
+- state-funded alternative provision schools (includes pupil referral units, alternative provision academies and free schools)
+- independent schools
+
+It includes information on:
+
+- pupil numbers, including, SEN provision, SEN type of need, sex, ethnicity, language and free school meals eligibility
+- school numbers, including resourced provision, SEN units and approved provisions (special schools only)
+
+The information is based on data collected via the pupil level spring school census, school level annual school census, general hospital schools census and alternative provision census.
+
+File formats and conventions
+
+This dataset has not had suppression applied.
+
+The following convention is used throughout the underlying data.
+
+‘x’ Not applicable
+
+‘z’ Not available
+
+Data files
+
+Year group, by type of SEN provision and type of need - 2016 to 2025
+
+Filename: sen_ncyear_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2015/16 to 2024/25
+Content summary: Number of pupils in state-funded nursery, primary, secondary and special schools, non-maintained special schools and AP schools by SEN provision, type of need and national curriculum year.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name            |  Variable description
+-----------------------  |  -----------------------------------------------------------------------------------------
+nc_early_years           |  Early years
+nc_early_years_percent   |  Early years (%)
+nc_not_followed          |  National curriculum not followed
+nc_not_followed_percent  |  National curriculum not followed (%)
+nc_reception             |  Reception
+nc_reception_percent     |  Reception (%)
+nc_year_1                |  Year group  1
+nc_year_1_percent        |  Year group  1 (%)
+nc_year_10               |  Year group  10
+nc_year_10_percent       |  Year group  10 (%)
+nc_year_11               |  Year group  11
+nc_year_11_percent       |  Year group  11 (%)
+nc_year_12               |  Year group  12
+nc_year_12_percent       |  Year group  12 (%)
+nc_year_13               |  Year group  13
+nc_year_13_percent       |  Year group  13 (%)
+nc_year_14               |  Year group  14
+nc_year_14_percent       |  Year group  14 (%)
+nc_year_2                |  Year group  2
+nc_year_2_percent        |  Year group  2 (%)
+nc_year_3                |  Year group  3
+nc_year_3_percent        |  Year group  3 (%)
+nc_year_4                |  Year group  4
+nc_year_4_percent        |  Year group  4 (%)
+nc_year_5                |  Year group  5
+nc_year_5_percent        |  Year group  5 (%)
+nc_year_6                |  Year group  6
+nc_year_6_percent        |  Year group  6 (%)
+nc_year_7                |  Year group  7
+nc_year_7_percent        |  Year group  7 (%)
+nc_year_8                |  Year group  8
+nc_year_8_percent        |  Year group  8 (%)
+nc_year_9                |  Year group  9
+nc_year_9_percent        |  Year group  9 (%)
+number_of_pupils         |  Headcount
+phase_type_grouping      |  Phase type of school - Phase (primary, secondary, special, AP schools, independent)
+sen_primary_need         |  Primary type of need - (ASD, HI, VI…)
+sen_status               |  SEN provision - EHC plan/Statement of SEN or SEN support/School Action/School Action plus
+
+Footnotes:
+
+1. Includes state-funded nursery, primary, secondary and special schools, non-maintained special schools and state-funded alternative provision schools. Does not include independent schools.
