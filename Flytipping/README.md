@@ -20,4 +20,5 @@ You may also find the following WhatDoTheyKnow requests useful
 - The Manchester areas hit most by fly tippers - and why they dump where they do - https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-areas-hit-most-fly-32106600
 - ‘Ambitious’ new plans to tackle fly-tipping and litter across Manchester revealed - https://themanc.com/news/ambitious-new-plans-to-tackle-fly-tipping-and-litter-across-manchester-revealed/
 - Fly-tipping capital of Manchester named as new map exposes city’s dirtiest areas - https://www.manchesterworld.uk/news/fly-tipping-capital-of-manchester-named-as-new-map-exposes-citys-dirtiest-streets-5234840
+Barnsley fly-tipping reports hit decade high - https://www.thestar.co.uk/news/politics/barnsley-fly-tipping-reports-hit-decade-high-5609503 
 
