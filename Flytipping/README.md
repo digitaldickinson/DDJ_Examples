@@ -2,6 +2,7 @@
 
 ## Source 
 The data sets here are from https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2023-to-2024. 
+
 **NOTE: The latest figures have been published at https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england**  
 
 ## Content
@@ -22,5 +23,6 @@ You may also find the following WhatDoTheyKnow requests useful
 - ‘Ambitious’ new plans to tackle fly-tipping and litter across Manchester revealed - https://themanc.com/news/ambitious-new-plans-to-tackle-fly-tipping-and-litter-across-manchester-revealed/
 - Fly-tipping capital of Manchester named as new map exposes city’s dirtiest areas - https://www.manchesterworld.uk/news/fly-tipping-capital-of-manchester-named-as-new-map-exposes-citys-dirtiest-streets-5234840
 Barnsley fly-tipping reports hit decade high - https://www.thestar.co.uk/news/politics/barnsley-fly-tipping-reports-hit-decade-high-5609503 
+
 
 
