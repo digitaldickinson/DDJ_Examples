@@ -5,6 +5,6 @@ The data now requires garages to report their forecourt fuel prices. You can get
 
 ## Content
 
- Here's an example of the CSV from 19th March
+ The folder contains an example of the CSV from 19th March
 
- 
+ https://github.com/digitaldickinson/DDJ_Examples/blob/main/Fuel%20prices/UpdatedFuelPrice-1773914400045.csv 
